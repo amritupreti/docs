@@ -8,8 +8,12 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
