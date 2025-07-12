@@ -1,4 +1,7 @@
-site_name: MkDocs YouTube Tutorial
+site_name: Journey of a Software Engineer
+site_description: A personal knowledge base documenting my journey as a software engineer.
+site_author: Amrit Upreti
+site_repo: https://github.com/amritupreti/docs
 site_url: https://amritupreti.github.io/docs/
 theme:
   name: material
