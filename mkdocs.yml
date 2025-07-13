@@ -10,6 +10,8 @@ nav:
   - DSA:
     - Patterns: 'DSA/patterns.md'
   - HAProxy: 'haproxy/haproxy.md'
+  - MongoDB:
+    - Replication: 'mongo/replication.md'
   - Vim: 'vim/vim.md'
 
 theme:
