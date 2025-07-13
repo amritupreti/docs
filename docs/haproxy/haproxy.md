@@ -301,11 +301,11 @@ docker compose up -d
 ```
 
 2. Test the setup:
-    - `server1`: http://localhost:8001
-    - `server2`: http://localhost:8002
-    - `server3`: http://localhost:8003
-    - `server4`: http://localhost:8004
-    - `haproxy`: http://localhost:8000
+    - `server1`: [http://localhost:8001/](http://localhost:8001/)
+    - `server2`: [http://localhost:8002/](http://localhost:8002/)
+    - `server3`: [http://localhost:8003/](http://localhost:8003/)
+    - `server4`: [http://localhost:8004/](http://localhost:8004/)
+    - `HAProxy`: [http://localhost:8000/](http://localhost:8000/)
 
 3. Test the load balancing:
     - Access the home page: [http://localhost:8000/](http://localhost:8000/)
