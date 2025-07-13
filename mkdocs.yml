@@ -2,6 +2,16 @@ site_name: Things I Learned
 site_description: A personal knowledge base documenting my journey as a software engineer.
 site_author: Amrit Upreti
 site_url: https://amritupreti.github.io/docs/
+
+nav:
+  - Welcome: index.md
+  - Go: 
+    - Basics: 'go/intro.md'
+  - DSA:
+    - Patterns: 'DSA/patterns.md'
+  - HAProxy: 'haproxy/haproxy.md'
+  - Vim: 'vim/vim.md'
+
 theme:
   name: material
   features:
