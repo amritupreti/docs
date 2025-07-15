@@ -12,6 +12,7 @@ nav:
   - HAProxy: 'haproxy/haproxy.md'
   - MongoDB:
     - Replication: 'mongo/replication.md'
+    - Sharding: 'mongo/sharding.md'
   - Vim: 'vim/vim.md'
 
 theme:
