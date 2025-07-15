@@ -162,7 +162,7 @@ docker exec -it cfgsvr1 mongosh
 2. Run the following command to initialize the replica set:
 ```javascript title="cfgsvr/replicaSet.js"
 rs.initiate({
-  _id: "cfgrs",\
+  _id: "cfgrs",
   configsvr: true,
   members: [
     { _id: 0, host: "cfgsvr1:27017" },
